@@ -1,0 +1,3 @@
+{
+  "ignorePatterns": ".claude/**\n.agents/**\n.cursor/**\n.codex/**\n.skills/**\n**/SKILL.md\n**/CLAUDE.md\n**/AGENTS.md\n.cursorrules\n.cursorindexingignore\n.github/copilot-instructions.md"
+}
